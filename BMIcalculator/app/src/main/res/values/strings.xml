@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">БЖИ тооцоологч</string>
+    <string name="gender_male">♂</string>
+    <string name="male">Эрэгтэй</string>
+    <string name="gender_female">♀</string>
+    <string name="female">Эмэгтэй</string>
+    <string name="height">Өндөр</string>
+    <string name="default_height">150</string>
+    <string name="cm">см</string>
+    <string name="weight">Жин</string>
+    <string name="default_weight">60</string>
+    <string name="minus">-</string>
+    <string name="add">+</string>
+    <string name="age">Нас</string>
+    <string name="default_age">20</string>
+    <string name="calculate">Тооцоолох</string>
+    <string name="recalculate">Дахин тооцоолох</string>
+    <string name="result">Таны үр дүн</string>
+    <string name="description">Та эрүүл зөв жин өндөртэй байна.</string>
+    <string name="normal">Хэвийн</string>
+    <string name="default_bmi">19.2</string>
+</resources>
